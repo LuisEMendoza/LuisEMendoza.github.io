@@ -28,19 +28,19 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+ social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+   facebook: luisenrique.mendozaruiz
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+   linkedin: luisenrique-mendozaruiz
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
+   twitter: @des_arraigo
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
@@ -51,16 +51,56 @@ topics:
     web_url: https://github.com/topics/arduino
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/arduino/arduino.png
 
-  - name: Jupyter Notebook
-    web_url: https://github.com/topics/jupyter-notebook
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png
-    
-  - name: Linux
-    web_url: https://github.com/topics/linux
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
-    
   - name: Godot
     web_url: https://github.com/topics/godot
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png
+  
+  - name: Jupyter Notebook
+    web_url: https://github.com/topics/jupyter-notebook
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png
+ 
+  - name: Kivy
+    web_url: https://github.com/topics/kivy
+    image_url: https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png
 
+  - name: Linux
+    web_url: https://github.com/topics/linux
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png
+    
+  - name: Markdown
+    web_url: https://github.com/topics/markdown
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png
+    
+  - name: Python
+    web_url: https://github.com/topics/python
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
+    
+  - name: R
+    web_url: https://github.com/topics/r
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png
+    
+  - name: Raspberry Pi
+    web_url: https://github.com/topics/raspberry-pi
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png
+    
+  - name: Rust
+    web_url: https://github.com/topics/rust
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png
+    
+  - name: Telegram
+    web_url: https://github.com/topics/telegram
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png
+    
+  - name: Twitter
+    web_url: https://github.com/topics/twitter
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png
+    
+  - name: Unity
+    web_url: https://github.com/topics/unity
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png
+    
+  - name: Unreal Engine
+    web_url: https://github.com/topics/unreal-engine
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png
+  
 theme: jekyll-theme-cayman
