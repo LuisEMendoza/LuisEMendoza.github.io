@@ -8,5 +8,5 @@ En este post enlisto las páginas que corresponden a los contenidos de las asign
 
 - [Optimización II](https://luisemendoza.github.io/OPT2-UVM/)
 
-- [Probabilidad y Estadística](https://luisemendoza.github.io/PYE-UVM/)
+- [Probabilidad y Estadística](https://luisemendoza.github.io/PyE-UVM/)
 
