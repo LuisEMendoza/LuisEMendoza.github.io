@@ -43,14 +43,14 @@ social_media:
     twitter: des_arraigo
   # unsplash: your_username
   # vk: your_username
-    website: https://blog.belical.org/
+  # website: https://blog.belical.org/
   # youtube: your_username
 
 topics:
   - name: Arduino
     web_url: https://github.com/topics/arduino
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/arduino/arduino.png
-
+    
   - name: Godot
     web_url: https://github.com/topics/godot
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png
