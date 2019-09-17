@@ -8,4 +8,4 @@ En este post enlisto las páginas que corresponden a los contenidos de las asign
 
 - [Introducción a las Matemáticas II](https://luisemendoza.github.io/IAM-UPGoP/)
 
-- [Probabilidad y Estadística](https://luisemendoza.github.io/PYE-UPGoP/)
+- [Probabilidad y Estadística](https://luisemendoza.github.io/PyE-UPGoP/)
