@@ -6,6 +6,8 @@ En este post enlisto las páginas que corresponden a los contenidos de las asign
 
 - [Control Estadístico de la Calidad](https://luisemendoza.github.io/CEC-ISAN/)
 
+- [Ingeniería de Sistemas](https://luisemendoza.github.io/ISI-ISAN)
+
 - [Investigación de Operaciones I](https://luisemendoza.github.io/IOP1-ISAN/)
 
 - [Investigación de Operaciones II](https://luisemendoza.github.io/IOP2-ISAN/)

@@ -6,6 +6,8 @@ En este post enlisto las páginas que corresponden a los contenidos de las asign
 
 - [Cálculo Diferencial e Integral](https://luisemendoza.github.io/CDI-UPGOP)
 
+- [Electricidad y Magnetismo](https://luisemendoza.github.io/EyM-UPGOP)
+
 - [Herramientas Ofimáticas](https://luisemendoza.github.io/HEO-UPGoP/)
 
 - [Introducción a las Matemáticas](https://luisemendoza.github.io/IAM-UPGoP/)
