@@ -12,6 +12,6 @@ En este post enlisto las páginas que corresponden a los contenidos de las asign
 
 - [Introducción a las Matemáticas](https://luisemendoza.github.io/IAM-UPGoP/)
 
-- [Métodos Cuantitativos para la Toma de Decisiones](https://luisemendoza.github.io/MCD-UPGoP/)
+- [Métodos Cuantitativos para la Toma de Decisiones](https://luisemendoza.github.io/MCD-UPGOP/)
 
 - [Probabilidad y Estadística](https://luisemendoza.github.io/PyE-UPGoP/)
