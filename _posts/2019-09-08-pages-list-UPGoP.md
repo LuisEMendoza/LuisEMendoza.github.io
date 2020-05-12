@@ -19,3 +19,5 @@ En este post enlisto las páginas que corresponden a los contenidos de las asign
 - [Métodos Cuantitativos para la Toma de Decisiones](https://luisemendoza.github.io/MCD-UPGOP/)
 
 - [Probabilidad y Estadística](https://luisemendoza.github.io/PyE-UPGoP/)
+
+- [Sistemas Embebidos](https://luisemendoza.github.io/SE-UPGoP/)
